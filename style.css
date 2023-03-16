@@ -10,7 +10,9 @@ body {
     margin-top: 100px;
     
 }
-
+p{
+    width: 400px;
+}
 h1,
 h2,
 h3 {
@@ -49,9 +51,9 @@ html {
     padding: 10px;
     margin: 10px;
     margin-left: 10%;
-    border: 1px solid darkorchid;
+    border: 1px solid rgb(163, 24, 233);
     text-decoration: none;
-
+color: rgb(202, 96, 255);
 }
 
 .about:hover {
@@ -64,13 +66,14 @@ html {
     text-align: center;
     font-size: 25px;
     text-transform: capitalize;
-    border: 1px solid darkorchid;
+    border: 1px solid rgb(155, 20, 223);
     display: inline-flex;
     padding: 10px;
     margin: 10px;
     margin-top: 50px;
     margin-bottom: 50px;
     text-decoration: none;
+    color: rgb(202, 96, 255);
 
 }
 
@@ -90,7 +93,7 @@ html {
     padding: 30px 25px;
     text-decoration: none;
     text-transform: capitalize;
-    background: var(--primary-color);
+    background: rgb(212, 125, 255);
     box-shadow: var(--box-shadow);
     color: white;
     font-size: 15px;
