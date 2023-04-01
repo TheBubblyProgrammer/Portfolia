@@ -179,24 +179,24 @@ color: rgb(202, 96, 255);
    30% { transform: rotate(45.0deg) }
             }
 
-.about-section img{
+.content img{
     border-radius:17px 17px 17px 17px;
     right: 20%;
     width: 450px;
     padding-top: 20%;
 }
 
-.about-section  p{
+.content p{
  width: 500px;
 }
-.about-section h1{
+.content h1{
     padding-top: 20%;
 }
-.about-section h2{
+.content h2{
    font-size: 25px;
    padding-right: 25px;
 }
-.about-section a{
+.content a{
     border: 2px solid darkorchid;
     text-decoration: none;
     color: darkmagenta;
