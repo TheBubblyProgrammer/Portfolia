@@ -181,8 +181,11 @@ color: rgb(202, 96, 255);
 
 .content p{
 text-align: center;
-font-size: 35px;
-padding-top: 20px;
+font-size: 25px;
+width: 550px;
+}
+.content .p{
+    font-size: 20px;
 }
 .content h1{
     padding-top: 20%;
@@ -207,10 +210,18 @@ padding-top: 20px;
       font-family: 'Philosopher', sans-serif;
       text-align: center;
 }
+.content .h4 {
+    font-size: 25px;
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
 
 .content h5{
     font-family: 'Roboto Mono', monospace;
     padding-top: 10px;
+    font-size: 25px;
 }
 .content img{
     margin-top: 75px;
@@ -229,5 +240,5 @@ padding-top: 20px;
  .icons a{
     font-size: 25px;
     margin: 20px;
-    margin-top: 25%;
+    margin-top: 55%;
 }
