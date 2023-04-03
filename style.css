@@ -43,6 +43,10 @@ html {
     border: 10px solid rgb(207, 141, 240);
    text-align: center;
 }
+footer{
+    border: 5px solid red;
+}
+
 @media(max-width:547px){
   h1{
     font-size: 40px;
