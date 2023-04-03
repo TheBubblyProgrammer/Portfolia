@@ -74,6 +74,7 @@ hr{
     border: 1px solid rgb(113, 101, 119);
     
 }
+/* responsive*/
 
 @media(max-width:547px){
   h1{
@@ -224,6 +225,12 @@ color: rgb(202, 96, 255);
 }
 .content .p {
     font-size: 20px;
+    width: 300px;
+}
+.content p {
+    text-align: center;
+    font-size: 25px;
+     padding-right: 75%;
 }
 
 .content h1 {
@@ -287,6 +294,8 @@ color: rgb(202, 96, 255);
     margin-top: 55%;
 }
 }
+
+/* end of responsive*/
 
 
 .about {
@@ -415,8 +424,7 @@ color: rgb(202, 96, 255);
 .content p{
 text-align: center;
 font-size: 25px;
-margin-right: 65%;
-width: 310px;
+width: 550px;
 }
 .content .p{
     font-size: 20px;
