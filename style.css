@@ -468,10 +468,10 @@ width: 550px;
     font-size: 25px;
 }
 .content img{
-    margin-top: 75px;
+    margin-top: 55px;
     box-shadow: 4px 4px 5px 5px gray;
+    border-radius: 12px;
 }
-
 .content a {
     border: 2px solid darkorchid;
         text-decoration: none;
